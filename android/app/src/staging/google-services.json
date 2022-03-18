@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "215856528745",
+    "project_id": "qtest-staging",
+    "storage_bucket": "qtest-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215856528745:android:65bb29f71be5ac5ed451f8",
+        "android_client_info": {
+          "package_name": "com.example.q_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215856528745-g79j2k97qjeh06du3t7rd0lb1d25pr6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUbLU0DrABX1taviV7IeQDk7-eIPLlF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215856528745-g79j2k97qjeh06du3t7rd0lb1d25pr6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215856528745-7o8lvmg1shf1gdlk3pcmaq4ttq39hih8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
